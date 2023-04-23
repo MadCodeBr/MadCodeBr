@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MadCodeBr 
+- 👋 Hi, I’m @MadCodeBro
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on new projects
